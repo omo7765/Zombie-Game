@@ -1,0 +1,13 @@
+commit 5c0808f6cf69fd5123a1d3aecd1cf14a18924f68
+Author: ajiang2363 <42986508+ajiang2363@users.noreply.github.com>
+Date:   Wed Feb 13 22:31:12 2019 -0500
+
+    Create .gitignore
+    
+    Added in a gitignore file to the master branch.
+
+commit 24382695d2c2979955340860abaf2931c819c783
+Author: Oluwamayowa Olojo <45318880+omo7765@users.noreply.github.com>
+Date:   Wed Feb 13 21:34:37 2019 -0500
+
+    Initial commit
